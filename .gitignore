@@ -25,3 +25,5 @@ venv/
 # mypy
 # Pyre type checker
 *.pyc
+*.docx
+*.odt
